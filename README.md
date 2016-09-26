@@ -6,7 +6,7 @@ At the heart of every web app is the Web Request-Response Cycle. Pay close atten
 
 **Ensure you run the blog with `node server.js` or `nodemon` from the `starter-code` directory, not the `live-server` command.**  
 
-**The `nodemon` package which is available through npm. `npm install -g nodemon`. This will also enable reloading pages after changes occur in our code.**
+**The `nodemon` package is available through npm. `npm install -g nodemon`. This will also enable reloading pages after changes occur in our code.**
 
 The URLs that your app can respond to maps to your apps capabilities. Consider what public routes your app should have. Use page.js to expose those as navigatable URLs. Then setup controllers to handle those URLs, all on the client side.
 
