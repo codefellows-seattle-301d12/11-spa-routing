@@ -4,4 +4,4 @@ page();
     single controller function to handle it: */
 page('/', goHome());
 page('/about', goAbout());
-// TODO: What function do we call to activate page.js?
+// DONE: What function do we call to activate page.js?
